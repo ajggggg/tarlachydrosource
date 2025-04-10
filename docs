@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarlac Hydro Source</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f8f9fa; margin: 0; padding: 0; color: #333; }
+    header, footer { background: #0077cc; color: white; padding: 1rem; text-align: center; }
+    nav ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 1rem 0 0; }
+    nav ul li { margin: 0 10px; }
+    nav ul li a { color: white; text-decoration: none; font-weight: bold; }
+    section { padding: 2rem; margin: auto; max-width: 900px; background: white; margin-top: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h1, h2 { color: #0077cc; }
+    blockquote { font-style: italic; border-left: 4px solid #0077cc; padding-left: 1rem; margin: 1rem 0; }
+    a { color: #0077cc; }
+    img.responsive { max-width: 100%; height: auto; border-radius: 10px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tarlac Hydro Source</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#promo">Promotions</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#reviews">Reviews</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Tarlac Hydro Source</h2>
+    <p>Your neighborhood solution for <strong>Purified Drinking Water</strong> and <strong>Professional Laundry Services</strong> — conveniently located along <strong>Romulo Highway, Sapang Maragul, Tarlac City</strong>.</p>
+    <p>Two services, one trusted name. Clean water, always available. Fresh laundry, perfectly folded.</p>
+    <img src="images/home-banner.jpg" alt="Tarlac Hydro Source Storefront" class="responsive">
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At <strong>Tarlac Hydro Source</strong>, we believe in delivering essentials with care. We offer high-quality purified water and reliable laundry services for everyday needs.</p>
+    <p>Located along Romulo Highway in Sapang Maragul, Tarlac City, we’re a newly established service provider committed to quality, cleanliness, and customer satisfaction. Our modern equipment and friendly team are here to serve you better—one refill, one wash at a time.</p>
+    <p><em>“We started Tarlac Hydro Source with a simple goal: to provide clean water and quality laundry service that our community can trust—delivered with care, and always with a smile.”</em></p>
+    <img src="images/about.jpg" alt="Hydro Source About" class="responsive">
+    <div>
+      <img src="images/team1.jpg" alt="Owner 1" class="responsive">
+      <img src="images/team2.jpg" alt="Owner 2" class="responsive">
+      <img src="images/team3.jpg" alt="Owner 3" class="responsive">
+    </div>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <h3>💧 Water Refilling</h3>
+    <ul>
+      <li>Walk-in refilling station</li>
+      <li>Home and business water delivery</li>
+      <li>Long-term partner program: <strong>Hot & Cold Water Dispenser Provided</strong></li>
+    </ul>
+    <img src="images/services.jpg" alt="Water Services" class="responsive">
+
+    <h3>🧺 Laundry Services</h3>
+    <ul>
+      <li>Wash & Dry</li>
+      <li>Wash, Dry & Fold</li>
+      <li>Beddings and bulk laundry</li>
+      <li>Pickup and Delivery Available</li>
+    </ul>
+    <img src="images/laundry.jpg" alt="Laundry Services" class="responsive">
+  </section>
+
+  <section id="promo">
+    <h2>Promotions</h2>
+    <p><strong>Water:</strong> Partner with us long-term and get a <strong>Hot & Cold Water Dispenser</strong> provided for your business or workplace.</p>
+    <p><strong>Laundry:</strong> Ask us about bundle deals and seasonal laundry promos!</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <img src="images/gallery1.jpg" alt="Gallery 1" class="responsive">
+    <img src="images/gallery2.jpg" alt="Gallery 2" class="responsive">
+  </section>
+
+  <section id="reviews">
+    <h2>Customer Reviews</h2>
+    <blockquote>“Great-tasting water and fast delivery. We use it for our whole family!” – Maricel D.</blockquote>
+    <blockquote>“Laundry service is fast, neat, and reliable. Folded like hotel service!” – Joseph M.</blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>
+      📍 Romulo Highway, Sapang Maragul, Tarlac City<br>
+      📞 0966-991-2562<br>
+      ✉️ tarlachydrosource2024@gmail.com<br>
+      💬 <a href="https://www.facebook.com/share/18bvKp5jNK/?mibextid=wwXIfr">Facebook Page</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Tarlac Hydro Source. All rights reserved.</p>
+  </footer>
+</body>
+</html>
